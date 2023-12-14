@@ -1,6 +1,8 @@
 #include <stdio.h>
 #define NEW_CONST 1
 
+// add comment for commit C3
+
 int main()
 {
     int t_i = NEW_CONST;
