@@ -1,7 +1,12 @@
 #include <stdio.h>
+#define NEW_CONST 1
 
 int main()
 {
-    printf("wh \n");
+    int t_i = NEW_CONST;
+    if (t_i == NEW_CONST)
+        printf("wh \n");
+    else
+    printf("another const \n");
     return 0;
 }
