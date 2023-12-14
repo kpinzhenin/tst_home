@@ -2,6 +2,7 @@
 #define NEW_CONST 1
 
 // add comment for commit C6
+// add comment for commit C4
 
 int main()
 {
@@ -9,6 +10,6 @@ int main()
     if (t_i == NEW_CONST)
         printf("wh \n");
     else
-    printf("another const \n");
+        printf("another const \n");
     return 0;
 }
