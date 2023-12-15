@@ -1,8 +1,8 @@
 #include <stdio.h>
 #define NEW_CONST 1
 
-// add comment for commit C6
-// add comment for commit C4
+// add comment for commit C7
+
 
 int main()
 {
